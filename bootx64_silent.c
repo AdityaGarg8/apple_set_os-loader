@@ -8,7 +8,7 @@
 
 
 #define APPLE_SET_OS_VENDOR  "Apple Inc."
-#define APPLE_SET_OS_VERSION "Mac OS X 10.15"
+#define APPLE_SET_OS_VERSION "Mac OS X 10.9"
 
 #pragma pack(1)
 typedef struct {
